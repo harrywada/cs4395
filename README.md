@@ -21,3 +21,12 @@ immediately reading it back from a temporary pickle file before printing the
 entries out in a human-readable format.
 
 For more information, check the [README](./homework01/README.md).
+
+## Homework 02: Word guess game
+
+A brief "game" and exercise in basic NLTK operations. Given a text file, the
+script processes it (tokenization, lemmatization, etc.), outputs some basic
+statistics, and then uses the set of nouns as input to an interactive
+hangman-style game.
+
+See the [README](./homework02/README.md) for additional documentation.
