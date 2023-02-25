@@ -30,3 +30,12 @@ statistics, and then uses the set of nouns as input to an interactive
 hangman-style game.
 
 See the [README](./homework02/README.md) for additional documentation.
+
+## Homework 03: WordNet
+
+This assignment provides an introduction to the NLTK wrapper to WordNet, along
+with some basic instructional tasks in lemma relationships, hierarchies, and
+sentiment analysis. There is a brief section at the end dealing with
+collocations and calculating the point-wise mutual information value of one
+from a corpus. The report itself can be found
+[here](./homework03/homework03.pdf).
