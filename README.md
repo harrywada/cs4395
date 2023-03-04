@@ -39,3 +39,10 @@ sentiment analysis. There is a brief section at the end dealing with
 collocations and calculating the point-wise mutual information value of one
 from a corpus. The report itself can be found
 [here](./homework03/homework03.pdf).
+
+## Homework 04: N-grams
+
+This assignment once again uses NLTK to generate unigram and bigram indexes
+from a corpus and use them to build probabilistic language models to evaluate
+novel input. An adjunct [report](./homework04/homework04.pdf) is provided as
+well. For the programs themselves, see the [README](./homework04/README.md).
