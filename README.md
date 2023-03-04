@@ -46,3 +46,10 @@ This assignment once again uses NLTK to generate unigram and bigram indexes
 from a corpus and use them to build probabilistic language models to evaluate
 novel input. An adjunct [report](./homework04/homework04.pdf) is provided as
 well. For the programs themselves, see the [README](./homework04/README.md).
+
+# Homework 05: Sentence parsing
+
+In this assignment, I hand-parse a few example sentences of my choosing using
+both PSG and SRL. I also respond to a few questions and describe my opinion
+concerning differences between the two approaches. You can read the full report
+[here](./homework05/homework05.pdf).
