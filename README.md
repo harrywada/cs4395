@@ -53,3 +53,13 @@ In this assignment, I hand-parse a few example sentences of my choosing using
 both PSG and SRL. I also respond to a few questions and describe my opinion
 concerning differences between the two approaches. You can read the full report
 [here](./homework05/homework05.pdf).
+
+# Homework 06: Web crawler
+
+I created a minimal web crawler that, given a starting URL, crawls one level
+deep to each anchored URL, extracts paragraph data, and synthesizes the most
+salient terms from each page. I selected a well-known artist, Bob Dylan, and
+used his Wikipedia page as a default. After manually selecting what I thought
+were the most important results, I found some terse definitions/explanations of
+them and stored this in a [pickled dictionary](./homework06/db.pickle). As
+usual, there is also a short [write-up](./homework06/homework06.pdf).
